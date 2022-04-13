@@ -1,0 +1,22 @@
+{
+    "cadastro":[
+        {
+            "nome":"Jaqueline",
+            "email":"jaqueline@email.com",
+            "usuario":"jaque",
+            "senha":"senha1"
+        },
+        {
+            "nome":"Melyssa",
+            "email":"melyssa@email.com",
+            "usuario":"mel",
+            "senha":"senha2"
+        },
+        {
+            "nome":"Thuanny",
+            "email":"thuanny@email.com",
+            "usuario":"thu",
+            "senha":"senha3"
+        }
+    ]
+}
