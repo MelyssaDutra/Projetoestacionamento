@@ -1,22 +1,35 @@
 {
-    "cadastro":[
-        {
-            "nome":"Jaqueline",
-            "email":"jaqueline@email.com",
-            "usuario":"jaque",
-            "senha":"senha1"
-        },
-        {
-            "nome":"Melyssa",
-            "email":"melyssa@email.com",
-            "usuario":"mel",
-            "senha":"senha2"
-        },
-        {
-            "nome":"Thuanny",
-            "email":"thuanny@email.com",
-            "usuario":"thu",
-            "senha":"senha3"
-        }
-    ]
+  "cadastro": [
+    {
+      "nome": "Jaqueline",
+      "email": "jaqueline@email.com",
+      "usuario": "jaque",
+      "senha": "senha1",
+      "id": 1
+    },
+    {
+      "nome": "Melyssa",
+      "email": "melyssa@email.com",
+      "usuario": "mel",
+      "senha": "senha2",
+      "id": 2
+    },
+    {
+      "nome": "Thuanny",
+      "email": "thuanny@email.com",
+      "usuario": "thu",
+      "senha": "senha3",
+      "id": 3
+    },
+    {
+      "nome": "Jaqueline",
+      "email": "jaqueline@email.com",
+      "usuario": "jaque",
+      "senha": "senha1",
+      "id": 4
+    }
+  ],
+  "contato": [
+    {}
+  ]
 }
